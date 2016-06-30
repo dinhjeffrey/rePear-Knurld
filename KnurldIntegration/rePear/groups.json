@@ -1,0 +1,65 @@
+[
+ {"latitude": 39.5754,
+ "longitude" :-76.9958,
+ "locationname" : "The Triangle Recovery Club of Westminster 2 N. Court Street Westminster, MD 21157",
+ "name" : "Dopeless Hope Fiends/I am here, so I am not there",
+ "dates" : "Monday/Friday",
+ "times" : "6:30PM/6:30PM",
+ "contact" : "Tim W. 410-961-6854"
+ },{
+ "latitude": 39.4143,
+ "longitude" :-77.4105,
+ "locationname" : "511 W South St Frederick, MD 21701",
+ "name" : "Better Late Than Never/The Young And Restless",
+ "dates" : "Friday/Saturday",
+ "times" : "6:30PM/3:30PM",
+ "contact" : "Johnnie M. 301-865-3931/Johnnie@soldiersagainstheroin.org"
+ },{
+ "latitude": 39.2667,
+ "longitude" :-81.5615,
+ "locationname" : "1721 Latrobe St Parkersburg, WV 26101",
+ "name" : "Willingness is Key/Willingness is Key",
+ "dates" : "Sunday/Thursday",
+ "times" : "3:00PM - 4:15PM/6:30PM",
+ "contact" : "Justin S. 304-588-0899/justinsparkersburg@gmail.com"
+ },{
+ "latitude": 38.9530,
+ "longitude" :-76.5488,
+ "locationname" : "St. Paul’s Church - 25 Church Street (Rt.231), Prince Frederick, MD/Magothy United Methodist Church - 3703 Mountian Road, Pasadena, MD/South Shore Recovery Club - 1199 General’s Highway, Crownsville, MD/3717 East Baltimore Street/Union Protestant Church - Herald Harbor Road, Crownsville, MD/McDowell Hall (Park in Mellon Lot) - Room 35, Third Floor, Annapolis, MD/St. Elizabeth Ann Seton Church, 1800 Seton Drive, Crofton, MD 21114/Beacon Light Church, 1943 Drew Street, Annapolis, MD, 21401-3912/Magothy United Methodist Church - 3703 Mountain Road, Pasadena, MD/South Shore recovery Club - 1199 General’s Highway, Crownsville, MD",
+ "name" : "Come As You Are/Sunday Serenity/Sharing and Caring Group/Recovery Forever Club/Herald Harbor Step Group/Principles Before Personalities/Shot of Hope Men's Meeting/Beacon Light Meeting/The HOW Group/Straight From the Heart",
+ "dates" : "Sunday/Sunday/Monday/Tuesday/Tuesday/Wednesday/Wednesday/Thursday/Thursday/Friday",
+ "times" : "6:00PM/6:30PM/6:30PM/7:00PM/8:00PM/6:30PM/7:00PM/7:00PM/8:00PM/8:00PM",
+ "contact" : "NA/NA/NA/NA/NA/NA/NA/NA/NA/NA"
+ },{
+ "latitude": 39.0046,
+ "longitude" :-76.8755,
+ "locationname" : "Greenbelt Community Church - 143 Centerway, Greenbelt, MD/Greenbelt Community Church - 143 Centerway, Greenbelt, MD",
+ "name" : "Fun Bunch Group/Fun Bunch Group",
+ "dates" : "Sunday/Tuesday",
+ "times" : "6:00PM/12:00PM",
+ "contact" : "NA/NA"
+ },{
+ "latitude": 39.0068,
+ "longitude" :-76.7791,
+ "locationname" : "Trinity Lutheran Church - 6600 Laurel-Bowie Road (Rt 197), Bowie, MD",
+ "name" : "Fellowship Group",
+ "dates" : "Monday",
+ "times" : "7:00PM",
+ "contact" : "NA"
+ },{
+ "latitude": 39.0018,
+ "longitude" :-76.6875,
+ "locationname" : "Community United Methodist - 1690 Riedel Road, Crofton, MD",
+ "name" : "Steps to Serenity",
+ "dates" : "Tuesday",
+ "times" : "7:00PM",
+ "contact" : "NA"
+ },{
+ "latitude": 39.1146,
+ "longitude" :-76.9796,
+ "locationname" : "Cedar Ridge Community Church - 2410 Spencerville Road, Spencerville, MD",
+ "name" : "Livin' Life to the Full",
+ "dates" : "Wednesday",
+ "times" : "7:00PM",
+ "contact" : "NA"
+ } ]

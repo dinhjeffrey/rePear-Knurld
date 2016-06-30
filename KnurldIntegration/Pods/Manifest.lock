@@ -1,0 +1,19 @@
+PODS:
+  - Chatto (1.0.0)
+  - ChattoAdditions (1.0.0):
+    - Chatto
+  - YouTubePlayer (0.3.0)
+
+DEPENDENCIES:
+  - Chatto (= 1.0.0)
+  - ChattoAdditions (= 1.0.0)
+  - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Chatto: 531b14bbb7d21dfc50a86fc4ff70a90367171403
+  ChattoAdditions: 27c7b59f4c1b1d51d5f37c7199164982fcc59edf
+  YouTubePlayer: 88713a96c356f2c88da8925eb61438eda88bcd57
+
+PODFILE CHECKSUM: fe9ba3a5a875a320b99a58b9774f4720248a05b5
+
+COCOAPODS: 1.0.1
